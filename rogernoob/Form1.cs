@@ -20,6 +20,7 @@ namespace rogernoob
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //pene
             p = new practicam6Entities();
             productesBindingSource1.DataSource = p.productes;
             
