@@ -1,0 +1,11 @@
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\bin\Debug\rogernoob.exe.config
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\bin\Debug\rogernoob.exe
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\bin\Debug\rogernoob.pdb
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\bin\Debug\EntityFramework.dll
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\bin\Debug\EntityFramework.xml
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\obj\Debug\rogernoob.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\obj\Debug\rogernoob.Form1.resources
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\obj\Debug\rogernoob.Properties.Resources.resources
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\obj\Debug\rogernoob.csproj.GenerateResource.Cache
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\obj\Debug\rogernoob.exe
+C:\Users\carlos\Documents\Clase\M6-AccesDades\codigo\rogernoob\rogernoob\obj\Debug\rogernoob.pdb
